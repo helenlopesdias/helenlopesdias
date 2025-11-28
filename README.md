@@ -1,4 +1,4 @@
-### Olá, eu sou a [Helen Dias]! 👋
+### Olá, eu sou a Helen Dias! 👋
 
 Sou estudante de **Gestão de Tecnologia da Informação** me especializando na área de **Análise de Dados**.
 Minha paixão é encontrar padrões em dados para resolver problemas de negócio, reduzir custos e aumentar a segurança.
