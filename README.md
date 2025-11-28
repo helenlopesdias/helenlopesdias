@@ -12,4 +12,4 @@ Minha paixão é encontrar padrões em dados para resolver problemas de negócio
 
 **Vamos nos conectar?**
 - [LinkedIn](https://www.linkedin.com/in/helen-dias-b7319033b/)
-- [E-mail](mailto:contatohelenlopesdias@gmail.com)
+- [E-mail](contatohelenlopesdias@gmail.com)
