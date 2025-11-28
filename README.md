@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá, eu sou a [Helen Dias]! 👋
 
-<!--
-**helenlopesdias/helenlopesdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Gestão de Tecnologia da Informação** me especializando na área de **Análise de Dados**.
+Minha paixão é encontrar padrões em dados para resolver problemas de negócio, reduzir custos e aumentar a segurança.
 
-Here are some ideas to get you started:
+🔭 **Atualmente estou trabalhando em:**
+- Projetos de análise de risco financeiro e qualidade de software (veja meus repositórios!).
+- Aprofundamento em SQL e Visualização de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tech Stack:**
+- **Análise:** Excel, Google Sheets (Dashboards Avançados), SQL.
+
+📫 **Vamos nos conectar?**
+- [LinkedIn](https://www.linkedin.com/in/helen-dias-b7319033b/)
+- [E-mail](contatohelenlopesdias@gmail.com)
