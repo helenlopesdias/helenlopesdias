@@ -12,9 +12,7 @@ Transformando dados em insights para apoiar decisões estratégicas através de 
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:contatohelenlopesdias@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-contatohelenlopesdias%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohelenlopesdias@gmail.com)
 
 </div>
 
