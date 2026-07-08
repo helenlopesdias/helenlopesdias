@@ -12,7 +12,9 @@ Transformando dados em insights para apoiar decisões estratégicas através de 
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-contatohelenlopesdias%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatohelenlopesdias@gmail.com)
+<a href="mailto:contatohelenlopesdias@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
@@ -202,9 +204,21 @@ Previsão de Conclusão: **Dezembro/2027**
 
 ## 📫 Vamos nos Conectar
 
-💼 LinkedIn: https://linkedin.com/in/helen-dias-b7319033b
-📧 E-mail: contatohelenlopesdias@gmail.com
-🐙 GitHub: https://github.com/helenlopesdias
+<h2>📫 Vamos nos Conectar</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/helen-dias-b7319033b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:contatohelenlopesdias@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/helenlopesdias" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
