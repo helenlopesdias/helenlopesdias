@@ -8,8 +8,13 @@
 
 Transformando dados em insights para apoiar decisões estratégicas através de SQL, Python, BigQuery, Excel e Power BI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)]([SEU_LINKEDIN](https://www.linkedin.com/in/helen-dias-b7319033b/))
-[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](contatohelenlopesdias@gmail.com)
+<a href="https://www.linkedin.com/in/helen-dias-b7319033b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:contatohelenlopesdias@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
 
