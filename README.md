@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%"/>
+
 # 👋 Oi, sou a Helen Dias
 
 🎓 Estudante de Gestão da Tecnologia da Informação  
@@ -196,8 +198,8 @@ Previsão de Conclusão: **Dezembro/2027**
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=helenlopesdias&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenlopesdias&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
