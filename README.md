@@ -202,7 +202,7 @@ Previsão de Conclusão: **Dezembro/2027**
 
 ## 📫 Vamos nos Conectar
 
-💼 LinkedIn: [Meu perfil](https://www.linkedin.com/in/helen-dias-b7319033b/)
+💼 LinkedIn: linkedin.com/in/helen-dias-b7319033b
 📧 E-mail: contatohelenlopesdias@gmail.com
 🐙 GitHub: https://github.com/helenlopesdias
 
