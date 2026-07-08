@@ -15,7 +15,7 @@ Transformando dados em insights para apoiar decisões estratégicas através de 
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 Sou estudante de Gestão da Tecnologia da Informação com foco em **Análise de Dados**, apaixonada por transformar dados em informações que geram valor para empresas e pessoas.
 
