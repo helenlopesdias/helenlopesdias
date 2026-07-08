@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou a Helen Samara
+# 👋 Oi, sou a Helen Dias
 
 🎓 Estudante de Gestão da Tecnologia da Informação  
 📊 Focada em Data Analytics, Business Intelligence e Automação de Processos  
