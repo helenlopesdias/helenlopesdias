@@ -16,12 +16,12 @@ Sou estudante de Gestão da Tecnologia da Informação com foco em **Análise de
 
 Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
-- 📊 Business Intelligence
-- 📈 Análise de Dados
-- 🧹 Tratamento e Modelagem de Dados
-- 🤖 Automação de Processos
-- 📉 Visualização de Dados
-- 💡 Tomada de Decisão Baseada em Dados
+- Business Intelligence
+- Análise de Dados
+- Tratamento e Modelagem de Dados
+- Automação de Processos
+- Visualização de Dados
+- Tomada de Decisão Baseada em Dados
 
 
 
