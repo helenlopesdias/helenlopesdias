@@ -1,11 +1,3 @@
-<div align="center">
-  <img
-    src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"
-    width="100%"
-    alt="Banner"
-  />
-</div>
-
 <a href="https://www.linkedin.com/in/helen-dias-b7319033b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
 </a>
