@@ -1,3 +1,8 @@
+<img width="736" height="414" alt="download" src="https://github.com/user-attachments/assets/169d24d6-d1c6-4f4e-9c8d-5e5b620843be" />
+
+---
+
+
 <a href="https://www.linkedin.com/in/helen-dias-b7319033b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
 </a>
