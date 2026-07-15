@@ -1,14 +1,3 @@
-<img width="1200" height="360" alt="image" src="https://github.com/user-attachments/assets/0462974d-8c4f-495d-80ce-2cf302483108" />
-
-
-
-
-
-
-
----
-
-
 <a href="https://www.linkedin.com/in/helen-dias-b7319033b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
 </a>
@@ -34,7 +23,7 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 - Visualização de Dados
 - Tomada de Decisão Baseada em Dados
 
-
+<img width="1200" height="360" alt="image" src="https://github.com/user-attachments/assets/0462974d-8c4f-495d-80ce-2cf302483108" />
 
 ## Tecnologias e Ferramentas
 
