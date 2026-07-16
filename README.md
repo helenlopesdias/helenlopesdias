@@ -41,7 +41,7 @@ Dashboard Design • Data Storytelling • KPIs & Metrics
 Generative AI • Process Automation
 
 <br/>
-** 🌐 Languages:** Portuguese (Native) • English (Intermediate / In Progress)
+ 🌐 Languages: Portuguese (Native) • English (Intermediate / In Progress)
 </div>
 
 ---
