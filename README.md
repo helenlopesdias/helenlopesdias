@@ -24,11 +24,15 @@ I have practical experience in developing solutions focused on:
 
 ## Technologies & Tools
 
-<div align="center">
 
-    
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![GoogleSheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-Languages: Portuguese (Native) • English (Intermediate / In Progress)
+
+<br/>
+
+**🌐 Languages:** Portuguese (Native) • English (Intermediate / In Progress)
+
 
 </div>
 
