@@ -44,8 +44,10 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
 <img src="https://cdn.simpleicons.org/googlebigquery/4285F4" width="55"/>
 &nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55"/>
 &nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55"/>
 
 </div>
@@ -68,17 +70,6 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 - KPIs e Métricas
 - Inteligência Artificial Generativa
 - Automação de Processos
-
----
-
-## 📚 Atualmente Estudando
-
-- Google Data Analytics Professional Certificate
-- SQL Avançado
-- Power BI
-- Python para Análise de Dados
-- Business Intelligence
-- Inteligência Artificial Aplicada a Dados
 
 ---
 
