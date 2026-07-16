@@ -22,11 +22,17 @@ Atualmente, estou desenvolvendo projetos práticos utilizando SQL, Power BI, Big
 
 Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
--  Business Intelligence | - Automação de Processos
--  Análise de Dados | -  Visualização de Dados
--  Tratamento e Limpeza de Dados | -  Tomada de Decisão Baseada em Dados
--  Modelagem de Dados |
+<div align="center">
 
+![BI](https://img.shields.io/badge/Business%20Intelligence-blue)
+![Analytics](https://img.shields.io/badge/Análise%20de%20Dados-green)
+![Visualization](https://img.shields.io/badge/Visualização%20de%20Dados-orange)
+![Cleaning](https://img.shields.io/badge/Data%20Cleaning-red)
+![Automation](https://img.shields.io/badge/Automação%20de%20Processos-purple)
+![Decision](https://img.shields.io/badge/Tomada%20de%20Decisão-teal)
+![Modeling](https://img.shields.io/badge/Modelagem%20de%20Dados-yellow)
+
+</div>
 
 ---
 
