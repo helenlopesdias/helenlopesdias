@@ -34,12 +34,7 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
 ## Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,github" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="55"/>
-  <img src="assets/excel.png" height="55"/>
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![GoogleSheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ---
 
