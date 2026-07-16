@@ -28,20 +28,19 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
 ---
 
-- SQL Analítico
-- BigQuery
-- Power BI
-- Python para Análise de Dados
-- Pandas
-- Data Cleaning
-- Data Visualization
-- Business Intelligence
-- Data Modeling
-- Dashboard Design
-- Storytelling com Dados
-- KPIs e Métricas
-- Inteligência Artificial Generativa
-- Automação de Processos
+## 💡 Competências
+
+<div align="center">
+
+SQL Analítico • BigQuery • Power BI • Python para Análise de Dados • Pandas
+
+Data Cleaning • Data Visualization • Business Intelligence • Data Modeling
+
+Dashboard Design • Storytelling com Dados • KPIs e Métricas
+
+Inteligência Artificial Generativa • Automação de Processos
+
+</div>
 
 ---
 
