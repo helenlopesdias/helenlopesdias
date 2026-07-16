@@ -28,7 +28,7 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
 ---
 
-## 💡 Competências
+## Competências
 
 <div align="center">
 
