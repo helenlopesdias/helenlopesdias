@@ -1,19 +1,5 @@
 <img width="1024" height="254" alt="image" src="https://github.com/user-attachments/assets/b18d566d-fec1-4ce2-9b53-f26c08d613cf" />
 
-<div align="center">
-
-# Oii, sou a Helen Dias 
-
-<a href="https://www.linkedin.com/in/helen-dias-b7319033b/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:contatohelenlopesdias@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
-</div>
-
 ---
 
 Sou estudante de GTI com foco em **Análise de Dados**, apaixonada por transformar dados em informações que geram valor para empresas e pessoas.
