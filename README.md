@@ -40,6 +40,7 @@ Analytical SQL • BigQuery • Power BI • Python for Data Analysis • Pandas
 Data Cleaning • Data Visualization • Business Intelligence • Data Modeling
 Dashboard Design • Data Storytelling • KPIs & Metrics
 Generative AI • Process Automation
+
 <br/>
 **🌐 Languages:** Portuguese (Native) • English (Intermediate / In Progress)
 </div>
