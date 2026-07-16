@@ -45,6 +45,7 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="55"/>
 
 </div>
+
 ---
 
 ## 💡 Competências
