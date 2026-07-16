@@ -2,11 +2,13 @@
 
 ---
 
+<div align="center">
 I hold a degree in IT Management (GTI) with a focus on **Data Analysis**, and I am passionate about transforming data into information that drives value for businesses and people.
 
 Currently, I am developing practical projects using SQL, Power BI, BigQuery, and Python, focusing on data analysis, data visualization, and generating insights to support decision-making.
 
 I have practical experience in developing solutions focused on:
+</div>
 
 <div align="center">
 
