@@ -1,3 +1,5 @@
+<img width="1024" height="254" alt="image" src="https://github.com/user-attachments/assets/b18d566d-fec1-4ce2-9b53-f26c08d613cf" />
+
 <div align="center">
 
 # Oooi, sou a Helen Dias 
@@ -27,8 +29,6 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 -  Automação de Processos
 -  Visualização de Dados
 -  Tomada de Decisão Baseada em Dados
-
-<img width="1200" height="360" alt="Banner" src="https://github.com/user-attachments/assets/0462974d-8c4f-495d-80ce-2cf302483108" />
 
 ---
 
