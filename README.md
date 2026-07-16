@@ -36,22 +36,15 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
 <div align="center">
 
-### Dados & Analytics
+<img src="https://skillicons.dev/icons?i=python,postgres,github" height="55"/>
 
-<img src="https://skillicons.dev/icons?i=python,postgres,github" />
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="55"/>
 
-<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="55"/>
 
-<img src="https://cdn.simpleicons.org/googlebigquery/4285F4" width="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="55"/>
 
 </div>
-
 ---
 
 ## 💡 Competências
