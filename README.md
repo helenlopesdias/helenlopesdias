@@ -35,12 +35,9 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 ## Tecnologias e Ferramentas
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,github" height="55"/>
-
-<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="55"/>
-
-<img src="assets/excel.png" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,postgres,github" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="55"/>
+  <img src="assets/excel.png" height="55"/>
 
 </div>
 
