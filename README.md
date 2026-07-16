@@ -2,27 +2,27 @@
 
 ---
 
-Sou graduada de GTI com foco em **Análise de Dados**, apaixonada por transformar dados em informações que geram valor para empresas e pessoas.
+I hold a degree in IT Management (GTI) with a focus on **Data Analysis**, and I am passionate about transforming data into information that drives value for businesses and people.
 
-Atualmente, estou desenvolvendo projetos práticos utilizando SQL, Power BI, BigQuery e Python, com foco em análise de dados, visualização de informações e geração de insights para tomada de decisão.
+Currently, I am developing practical projects using SQL, Power BI, BigQuery, and Python, focusing on data analysis, data visualization, and generating insights to support decision-making.
 
-Tenho experiência prática no desenvolvimento de soluções voltadas para:
+I have practical experience in developing solutions focused on:
 
 <div align="center">
 
 ![BI](https://img.shields.io/badge/Business%20Intelligence-blue)
-![Analytics](https://img.shields.io/badge/Análise%20de%20Dados-green)
-![Visualization](https://img.shields.io/badge/Visualização%20de%20Dados-orange)
+![Analytics](https://img.shields.io/badge/Data%20Analytics-green)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-orange)
 ![Cleaning](https://img.shields.io/badge/Data%20Cleaning-red)
-![Automation](https://img.shields.io/badge/Automação%20de%20Processos-purple)
-![Decision](https://img.shields.io/badge/Tomada%20de%20Decisão-teal)
-![Modeling](https://img.shields.io/badge/Modelagem%20de%20Dados-yellow)
+![Automation](https://img.shields.io/badge/Process%20Automation-purple)
+![Decision](https://img.shields.io/badge/Decision%20Making-teal)
+![Modeling](https://img.shields.io/badge/Data%20Modeling-yellow)
 
 </div>
 
 ---
 
-## Tecnologias e Ferramentas
+## Technologies & Tools
 
 <div align="center">
   
@@ -32,17 +32,17 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
 ---
 
-## Competências
+## Skills
 
 <div align="center">
 
-SQL Analítico • BigQuery • Power BI • Python para Análise de Dados • Pandas
+Analytical SQL • BigQuery • Power BI • Python for Data Analysis • Pandas
 
 Data Cleaning • Data Visualization • Business Intelligence • Data Modeling
 
-Dashboard Design • Storytelling com Dados • KPIs e Métricas
+Dashboard Design • Data Storytelling • KPIs & Metrics
 
-Inteligência Artificial Generativa • Automação de Processos
+Generative AI • Process Automation
 
 </div>
 
@@ -50,7 +50,7 @@ Inteligência Artificial Generativa • Automação de Processos
 
 <div align="center">
 
-### 📫 Vamos nos conectar!
+### 📫 Let's connect!
 
 <a href="https://www.linkedin.com/in/helen-dias-b7319033b/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
