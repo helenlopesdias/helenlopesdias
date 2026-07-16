@@ -33,7 +33,6 @@ I have practical experience in developing solutions focused on:
 ---
 
 ## Skills
-
 <div align="center">
 
 Analytical SQL • BigQuery • Power BI • Python for Data Analysis • Pandas
