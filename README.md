@@ -42,7 +42,7 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="55"/>
 
-<img src="https://img.shields.io/badge/-Excel-fff?style=flat-square&logo=microsoft-excel&logoColor=white" height="55"/>
+<img src="https://img.shields.io/badge/-Microsoft_Excel-107C41?style=flat-square&logo=microsoft-excel&logoColor=white" height="55"/>
 
 </div>
 
