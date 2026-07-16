@@ -2,7 +2,7 @@
 
 ---
 
-Sou estudante de GTI com foco em **Análise de Dados**, apaixonada por transformar dados em informações que geram valor para empresas e pessoas.
+Sou graduada de GTI com foco em **Análise de Dados**, apaixonada por transformar dados em informações que geram valor para empresas e pessoas.
 
 Atualmente, estou desenvolvendo projetos práticos utilizando SQL, Power BI, BigQuery e Python, com foco em análise de dados, visualização de informações e geração de insights para tomada de decisão.
 
