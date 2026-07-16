@@ -40,8 +40,6 @@ Tenho experiência prática no desenvolvimento de soluções voltadas para:
 
 <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="55"/>
 
-<img src="https://cdn.simpleicons.org/microsoftexcel" height="55"/>
-
 <img src="assets/excel.png" height="50"/>
 
 </div>
