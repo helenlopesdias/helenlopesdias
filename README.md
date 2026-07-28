@@ -3,28 +3,28 @@
 ---
 
 <div align="center">
-I hold a degree in IT Management (GTI) with a focus on **Data Analysis**, and I am passionate about transforming data into information that drives value for businesses and people.
+Sou formada em Gestão da Tecnologia da Informação (GTI) com foco em **Análise de Dados**, e sou apaixonada por transformar dados em informações que geram valor para negócios e pessoas.
 
-Currently, I am developing practical projects using SQL, Power BI, BigQuery, and Python, focusing on data analysis, data visualization, and generating insights to support decision-making.
+Atualmente, estou desenvolvendo projetos práticos utilizando SQL, Power BI, BigQuery e Python, com foco em análise de dados, visualização de dados e geração de insights para apoiar a tomada de decisão.
 
-I have practical experience in developing solutions focused on:
+Tenho experiência prática no desenvolvimento de soluções focadas em:
 </div>
 
 <div align="center">
 
-![BI](https://img.shields.io/badge/Business%20Intelligence-blue)
-![Analytics](https://img.shields.io/badge/Data%20Analytics-green)
-![Visualization](https://img.shields.io/badge/Data%20Visualization-orange)
-![Cleaning](https://img.shields.io/badge/Data%20Cleaning-red)
-![Automation](https://img.shields.io/badge/Process%20Automation-purple)
-![Decision](https://img.shields.io/badge/Decision%20Making-teal)
-![Modeling](https://img.shields.io/badge/Data%20Modeling-yellow)
+![BI](https://img.shields.io/badge/Inteligência%20de%20Negócios-blue)
+![Analytics](https://img.shields.io/badge/Análise%20de%20Dados-green)
+![Visualization](https://img.shields.io/badge/Visualização%20de%20Dados-orange)
+![Cleaning](https://img.shields.io/badge/Limpeza%20de%20Dados-red)
+![Automation](https://img.shields.io/badge/Automação%20de%20Processos-purple)
+![Decision](https://img.shields.io/badge/Tomada%20de%20Decisão-teal)
+![Modeling](https://img.shields.io/badge/Modelagem%20de%20Dados-yellow)
 
 </div>
 
 ---
 
-## Technologies & Tools
+## Tecnologias e Ferramentas
 
 
 <div align="center">
@@ -34,23 +34,23 @@ I have practical experience in developing solutions focused on:
 
 ---
 
-## Skills
+## Habilidades
 <div align="center">
 
-Analytical SQL • BigQuery • Power BI • Python for Data Analysis • Pandas
-Data Cleaning • Data Visualization • Business Intelligence • Data Modeling
-Dashboard Design • Data Storytelling • KPIs & Metrics
-Generative AI • Process Automation
+SQL Analítico • BigQuery • Power BI • Python para Análise de Dados • Pandas
+Limpeza de Dados • Visualização de Dados • Business Intelligence • Modelagem de Dados
+Design de Dashboards • Data Storytelling • KPIs e Métricas
+IA Generativa • Automação de Processos
 
 <br/>
- 🌐 Languages: Portuguese (Native) • English (Intermediate / In Progress)
+ 🌐 Idiomas: Português (Nativo) • Inglês (Intermediário / Em andamento)
 </div>
 
 ---
 
 <div align="center">
 
-### 📫 Let's connect!
+### 📫 Vamos nos conectar!
 
 <a href="https://www.linkedin.com/in/helen-dias-b7319033b/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
@@ -61,3 +61,5 @@ Generative AI • Process Automation
 </a>
 
 </div>
+
+---
